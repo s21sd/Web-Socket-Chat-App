@@ -25,3 +25,4 @@ Start messaging other users!
 Troubleshooting:
 
 If you are having trouble connecting to the chat server, make sure that your web server is running and that your web browser supports WebSockets.
+<img src="https://github.com/s21sd/Web-Socket-Chat-App/blob/master/Screenshot%202023-09-20%20165839.png" width="1500" height="1000" alt="Image Description">
